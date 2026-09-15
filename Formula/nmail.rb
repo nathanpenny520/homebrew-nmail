@@ -1,10 +1,10 @@
 class Nmail < Formula
   desc "AI-driven, local-first aggregated email client"
   homepage "https://github.com/nathanpenny520/Nmail"
-  url "https://github.com/nathanpenny520/Nmail/releases/download/v0.3.0/nmail-macos-arm64"
-  sha256 "d9cd236dbfff44c6f197d530a0238947c866a6352f65c0fb1eba3781532a2253"
+  url "https://github.com/nathanpenny520/Nmail/releases/download/v0.4.0/nmail-macos-arm64"
+  sha256 "70d4e2239170d52059b1c5f10526806608337781cad27385fcc5e77fa052a3d2"
   license "MIT"
-  version "0.3.0"
+  version "0.4.0"
 
   depends_on :macos
 
